@@ -1,0 +1,12 @@
+{
+  "extends": "../tsconfig.base",
+  "compilerOptions": {
+    "removeComments": true,
+    "types":[
+        "node"
+    ]
+  },
+  "include": [
+    "./**/*"
+  ]
+}
